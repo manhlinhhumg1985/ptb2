@@ -1,0 +1,24 @@
+{
+  "name": "demo-chai1",
+  "version": "1.0.0",
+  "description": "demo PTB2",
+  "main": "tinhtoan.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chai": "^3.5.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha -S"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Linh",
+  "license": "MIT"
+}
